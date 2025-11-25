@@ -28,14 +28,12 @@ Jedes Element wurde sorgfältig gestaltet, um funktional und visuell überzeugen
 
 ## 📁 Projektstruktur
 
-Daniel, [26.11.2025 00:07]
 /project-root
 │── index.html
 │── style.css
 │── app.js
 └── assets/
 
-Daniel, [26.11.2025 00:07]
 ---
 
 ## 🔧 Verwendete Technologien
