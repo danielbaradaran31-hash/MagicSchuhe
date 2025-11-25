@@ -70,4 +70,5 @@ Durch den Einsatz von Animationen, modernen Icons, klar strukturierten Layouts u
 Dieses Projekt ist frei nutzbar, veränderbar und erweiterbar.
 
 ---
+Ich habe mit herzt für euch gemacht ❤️
 
